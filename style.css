@@ -1,0 +1,25 @@
+body {
+  margin: 2em;
+}
+
+@font-face {
+  font-family: "Techeroo Sans";
+  src: url("https://cdn.shopify.com/s/files/1/0279/8577/2609/files/614d4823-c52b-475c-825a-1b2cc27dcaa6_4UaGrENHsxJlGDuGo1OIlL3Owp4_1.woff2?v=1611586180")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  font-family: "Techeroo Sans", sans-serif;
+  font-size: 20px;
+  display: none;
+}
+
+svg {
+  font-family: "Techeroo Sans", sans-serif;
+}
+
+#Countdown {
+  color: #0049fb;
+}
